@@ -7,7 +7,7 @@ The project involved creating well plots using Matplotlib by extracting and proc
 WellData : It includes well log data of depth, gamma ray, sonic log, density log and neutron porosity.
 
 ### Tools
-Numpy, Pandas & Matplotlib
+Numpy, Pandas & Matplotlib.
 
 ### Data Visualization 
 ![download](https://github.com/user-attachments/assets/fe15f33a-6205-492a-8da5-ff8fdb2da582)
